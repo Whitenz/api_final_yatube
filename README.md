@@ -101,7 +101,3 @@ $ curl --location --request DELETE 'http://127.0.0.1:8000/api/v1/posts/1/' \
 
 ## Лицензия
 BSD 3-Clause License
-
-
-## Автор
-Илья Колесников
